@@ -1,0 +1,25 @@
+{
+  "ConfigVersion": "0.1",
+  "Name": "S&box Config",
+  "Category": "Server Settings",
+  "Entries": [
+    {
+      "Name": "Port",
+      "Type": "Integer",
+      "DefaultValue": 27015,
+      "Description": "Port du serveur"
+    },
+    {
+      "Name": "MaxPlayers",
+      "Type": "Integer",
+      "DefaultValue": 16,
+      "Description": "Nombre max de joueurs"
+    },
+    {
+      "Name": "Map",
+      "Type": "String",
+      "DefaultValue": "sandbox",
+      "Description": "Map de démarrage"
+    }
+  ]
+}
